@@ -40,3 +40,4 @@ jobs:
           ARGS: "-rltgoDzvO --delete" 
           # SOURCE: O que será copiado. Pode ser o diretório de build (ex: ./dist)
           SOURCE: "./frontend/dist/" 
+          
